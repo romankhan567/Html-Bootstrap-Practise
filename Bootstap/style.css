@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+.nav-item{
+padding: 10px;
+text-transform: uppercase;
+font-weight: 600;
+}
+.navbar .navbar-brand{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+#contact{
+   background-color: black;
+   background-size: 100% 100%;
+   background-attachment: fixed;
+}
+.stat{
+    background-color: black;
+    font-size: 20px;
+}
+.team{
+    background-color: black;
+}
+.ser{
+    background-color: black;
+}
+.about{
+    background-color: black;
+}
+.gal{
+   background-color: black;
+    padding: 7px;
+    margin: 7px;
+}
+.al{
+    background-color: black;
+}
+.footer{
+    background-color: black;
+}
+.aa{
+    background-color: black;
+}
